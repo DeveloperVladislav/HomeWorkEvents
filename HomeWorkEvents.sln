@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkEvents", "HomeWorkEvents\HomeWorkEvents.csproj", "{A1376FB8-1B77-403E-AE0C-030A51472BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1376FB8-1B77-403E-AE0C-030A51472BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1376FB8-1B77-403E-AE0C-030A51472BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1376FB8-1B77-403E-AE0C-030A51472BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1376FB8-1B77-403E-AE0C-030A51472BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E40E30-E1DD-480D-9F93-7A27E5BD0646}
+	EndGlobalSection
+EndGlobal
